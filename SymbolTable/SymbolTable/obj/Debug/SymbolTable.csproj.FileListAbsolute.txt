@@ -1,0 +1,6 @@
+D:\LAST SEMESTER\C.C\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe.config
+D:\LAST SEMESTER\C.C\SymbolTable\SymbolTable\obj\Debug\SymbolTable.csprojResolveAssemblyReference.cache
+D:\LAST SEMESTER\C.C\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe
+D:\LAST SEMESTER\C.C\SymbolTable\SymbolTable\bin\Debug\SymbolTable.pdb
+D:\LAST SEMESTER\C.C\SymbolTable\SymbolTable\obj\Debug\SymbolTable.exe
+D:\LAST SEMESTER\C.C\SymbolTable\SymbolTable\obj\Debug\SymbolTable.pdb
